@@ -1,0 +1,38 @@
+{
+  "saved_at": "2026-07-26T13:32:46",
+  "actions": [
+    {
+      "type": "straight",
+      "seconds": 20.0,
+      "pwm": 1600
+    },
+    {
+      "type": "right",
+      "degrees": 90.0
+    },
+    {
+      "type": "straight",
+      "seconds": 20.0,
+      "pwm": 1600
+    },
+    {
+      "type": "circle",
+      "degrees": 450.0,
+      "forward_pwm": 1575
+    },
+    {
+      "type": "straight",
+      "seconds": 20.0,
+      "pwm": 1600
+    },
+    {
+      "type": "right",
+      "degrees": 90.0
+    },
+    {
+      "type": "straight",
+      "seconds": 20.0,
+      "pwm": 1600
+    }
+  ]
+}
